@@ -1,0 +1,4 @@
+-Xlint:unchecked
+-cp
+"C:\\Users\\Logesh kc\\Desktop\\Zoho\\json-20180813.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho\\json-simple-1.1.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho\\postgresql-42.2.22.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho\\javax.mail.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho\\activation.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho\\javax.xml.bind.jar\\javax.xml.bind.jar;C:\\Users\\Logesh kc\\Desktop\\Zoho"
+EmployeeMain.java
